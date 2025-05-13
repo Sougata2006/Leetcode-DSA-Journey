@@ -2,7 +2,6 @@ class Solution {
     public int numberOfSteps(int num) {
         return(steps(num , 0));
     }
-    
     int steps(int num,int count){
         if(num==0)
           return count;
