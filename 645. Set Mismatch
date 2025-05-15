@@ -1,4 +1,5 @@
 class Solution {
+
     public int[] findErrorNums(int[] nums) {
         int i= 0;
         while(i<nums.length){
@@ -17,7 +18,7 @@ class Solution {
             if(nums[s] != s+1){
                 ans.add(nums[s]);
                 ans.add(s+1);
-        }
+             }
         }
         return new int[] {ans.get(0) , ans.get(1)};
     }
