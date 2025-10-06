@@ -10,4 +10,4 @@ The main purpose of this repo is personal practice and to maintain a record of m
 
 Feel free to browse through the solutions if it helps you in any way.
 
-Happy coding.
+Happy coding 🤗
