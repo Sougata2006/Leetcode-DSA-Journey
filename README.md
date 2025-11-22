@@ -1,6 +1,5 @@
 # Leetcode-DSA-Journey
 
-
 This repository contains my Java solutions to various Leetcode problems.
 
 Each file is named using the problem number and title for easy reference.  
